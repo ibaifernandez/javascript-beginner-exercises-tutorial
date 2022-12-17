@@ -16,3 +16,5 @@ function getAllStudentColors() {
 	  console.log(chosenColor);
 	}
   }
+
+  console.log(getAllStudentColors());
